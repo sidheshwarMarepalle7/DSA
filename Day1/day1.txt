@@ -1,0 +1,14 @@
+DSA Learning Journey – Day 1
+Topics Covered
+
+--> Introduction to Data Structures – Learned what data structures are and why they are used to organize and manage data efficiently.
+
+--> Types of Data Structures – Explored Linear (Arrays, Linked Lists, Stacks, Queues) and Non-Linear (Trees, Graphs, Hashing) structures.
+
+--> Introduction to Algorithms – Understood that an algorithm is a step-by-step method to solve a problem.
+
+--> Types of Algorithms – Looked at common categories like searching algorithms, sorting algorithms and more.
+
+--> Time Complexity – Learned how to measure the efficiency of an algorithm in terms of the number of operations with input size.
+
+--> Space Complexity – Understood how much extra memory an algorithm uses apart from the input.
