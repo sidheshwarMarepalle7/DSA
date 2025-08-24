@@ -1,0 +1,38 @@
+DSA Learning Journey – Day 2
+Topics Covered
+
+--> Time Complexity (Detailed Study) – Learned how to analyze how the runtime of an algorithm grows with input size.
+
+--> Types of Time Complexity – Understood best case, worst case, and average case scenarios.
+
+--> Common Time Complexities – Explored Big-O notations like:
+
+--> O(1) → Constant time (e.g., accessing array element).
+
+--> O(log n) → Logarithmic time (e.g., Binary Search).
+
+--> O(n) → Linear time (e.g., Linear Search).
+
+--> O(n log n) → Linearithmic (e.g., Merge Sort).
+
+--> O(n²), O(n³) → Quadratic/Cubic time (e.g., Nested loops).
+
+--> O(2^n), O(n!) → Exponential/Factorial time (e.g., Recursion-heavy problems like Tower of Hanoi, permutations).
+
+--> Space Complexity (Detailed Study) – Learned how to measure memory usage of an algorithm.
+
+--> Components of Space Complexity – Program space includes:
+
+--> Fixed Part → Memory for constants, program instructions, and variables.
+
+--> Variable Part → Memory for dynamic structures, recursion stack, and input data.
+
+Examples
+
+> Iterative programs usually have O(1) space.
+
+> Recursive programs may use O(n) space due to function call stack.
+
+--> Problems:
+> Count the frequency of a given number in an array, Time Complexity → O(n), Space Complexity → O(1).
+> Find the maximum and minimum element in a single pass, Time Complexity → O(n), Space Complexity → O(1).
