@@ -1,0 +1,17 @@
+DSA Learning Journey – Day 4
+
+--> Bubble Sort – Theory
+
+Definition: Bubble Sort is the simplest sorting algorithm that repeatedly swaps adjacent elements if they are in the wrong order. After each pass, the largest element "bubbles up" to the end of the array.
+
+--> How It Works (Step by Step)
+
+> Start from the first element, compare it with the next.
+
+> Swap them if they are in the wrong order.
+
+> Continue this process for the entire array → after first pass, the largest element is at the end.
+
+> Repeat the process for the remaining unsorted part of the array.
+
+> Continue until the array is sorted.
