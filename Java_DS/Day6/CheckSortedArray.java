@@ -1,0 +1,21 @@
+package com.Day6;
+
+public class CheckSortedArray {
+
+	public static boolean checkSortedArray(int[] arr) {
+		for (int i = 0; i < arr.length - 1; i++) {
+			if (arr[i] > arr[i + 1])
+				return false;
+		}
+		return true;
+	}
+
+	public static void main(String[] args) {
+		int[] arr = { 1, 2, 3, 2 };
+		if (checkSortedArray(arr))
+			System.out.println("Soreted");
+		else
+			System.err.println("not sorted");
+	}
+
+}
